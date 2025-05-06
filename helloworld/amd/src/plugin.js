@@ -8,8 +8,7 @@ export default new Promise(async resolve => {
     // Enregistrement auprès de TinyMCE
     tinyMCE.PluginManager.add(PLUGINNAME, editor => {
 
-        // 1. Déclare l’icône (le SVG est chargé en chaîne brute pour rester simple)
-        const iconSvg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><text x="3" y="18" font-size="14">HW</text></svg>';
+       const iconSvg = M.util.image_url('icon', 'tiny_helloworld');
         editor.ui.registry.addIcon('helloworld', iconSvg);
 
         // 2. Déclare le bouton dans la toolbar
