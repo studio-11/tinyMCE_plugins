@@ -1,7 +1,0 @@
-/* Atto Hello World – icône intégrée (aucune requête externe) */
-.atto_helloworld_button .icon {
-    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABQ0lEQVRIie2UsUoDQRCFv03gE0IqFgKJCYWIgrFG0EQJXEhEUEhY2AgpFRASlYWBgw6CU1EkSEhCChBFEhYFIeC+x9/vb3vnnJ3bunTO+d8532XmA8yyO0syh7QRRl3vwTzCXiF40FihA2wD32ZpkyMSeSx1x7gIlLyWe0STGPdiL3avgGsrN0rYkhT9AOeYJzRJBvAnPuAdLOEyIjlWTwAlqS7C47pN4CszQx2RunIPgIMNcDOMdXTBVX4DTOYyEU0xRyT2A5JMk6SDwBnuh8wq7zgfrCyaRO76F3oGvrFTCLHbSYYlj05zBZtwG9tTLAGfUYAj7FAgfp+gOieY0J+oZPPW6q8IxgsVm1xjvxTit4RWkg+0fvp6oMxJu0Dm4IN+zzCh3sugNcXDQxm2kaduCzun+AvllFfAU4yY2wxn/p83ZkUJlVtXt6FZkbwBducMcOvwiNuQAAAABJRU5ErkJggg==");
-    background-repeat: no-repeat;
-    background-position: 2px 50%;
-    background-size: 20px 20%;
-}
